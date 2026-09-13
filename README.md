@@ -89,8 +89,8 @@ conda activate ml-zoomcamp-2026
 
 | Module | Status | Homework | Notes |
 |--------|--------|----------|-------|
-| 1. Introduction | ⬜ Not started | | |
-| 2. Linear Regression | ⬜ Not started | | |
+| 1. Introduction | ✅ Done | ✅ Done | Q1–Q7 completed, normal equation implemented |
+| 2. Linear Regression | 🟡 In progress | | |
 | 3. Classification | ⬜ Not started | | |
 | 4. Evaluation | ⬜ Not started | | |
 | 5. Deployment | ⬜ Not started | | |
