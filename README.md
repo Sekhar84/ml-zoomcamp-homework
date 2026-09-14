@@ -103,11 +103,6 @@ conda activate ml-zoomcamp-2026
 
 Update status per module: ⬜ Not started → 🟡 In progress → ✅ Done
 
-## Learning in Public
-
-Course encourages sharing progress publicly (blog posts, social media, etc.) for bonus points. Log links here as you post:
-
-- 
 
 ## License
 
